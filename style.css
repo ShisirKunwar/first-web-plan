@@ -182,7 +182,7 @@ nav{
   top:  40%;
   width: 100%;
   left: 0;
-  background: rgb(34, 2, 2);
+  background: rgb(201,199, 199);
 }
 
 nav.active{
@@ -211,4 +211,5 @@ nav.active{
 .service-card{
     width: 80%;
 }
+
 }
